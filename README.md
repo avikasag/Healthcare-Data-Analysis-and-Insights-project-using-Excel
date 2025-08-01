@@ -1,0 +1,2 @@
+# Healthcare-Data-Analysis-and-Insights-project-using-Excel
+This project presents a comprehensive analysis of healthcare data using Microsoft Excel to derive actionable insights related to patient demographics, treatment outcomes, cost efficiency, and resource utilization. The primary goal is to showcase how Excel can be used for data cleaning, visualization, and basic analytics in the healthcare domain.
